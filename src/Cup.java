@@ -1,0 +1,3 @@
+interface Cup {
+    String name();
+}
